@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),('個人網站', 'http://a40323135.github.io/test3'))
+         ('Python', 'http://python.org/'),('班上網頁', 'http://2015fallhw.github.io/2015fallcadpa/user/40323135/'))
          
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
